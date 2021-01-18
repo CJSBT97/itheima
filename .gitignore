@@ -1,0 +1,9 @@
+# 忽略文件
+*.text
+
+
+# 忽略文件夹
+test/
+
+# 忽略 about.html
+index.html
